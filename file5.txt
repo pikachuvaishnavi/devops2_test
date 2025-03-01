@@ -1,1 +1,10 @@
 this is in try branch.
+nch Management
+	git branch ---> Lists all branches in the repository.
+	git branch <branch_name> ---> Creates a new branch.
+	git checkout <branch_name> ---> Switches to the specified branch.
+	git checkout -b <branch_name> ---> Creates and switches to a new branch.
+	git merge <branch_name> --->Merges the specified branch into the current branch.
+	git branch -d <branch_name> ---> Deletes a branch locally.
+
+hello lalith
