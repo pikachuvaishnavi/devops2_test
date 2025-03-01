@@ -1,1 +1,17 @@
 this is my 3rd file.
+$ git fetch
+From https://github.com/pikachuvaishnavi/devops2_test
+ * [new branch]      vbranch    -> origin/vbranch
+
+HOME@DESKTOP-QEP1EOQ MINGW64 ~/OneDrive/Desktop/devops2 (main)
+$ git merge
+Already up to date.
+
+HOME@DESKTOP-QEP1EOQ MINGW64 ~/OneDrive/Desktop/devops2 (main)
+$ git fetch
+remote: Enumerating objects: 4, done.
+remote: Counting objects: 100% (4/4), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+Unpacking objects: 100% (3/3), 942 bytes | 72.00 KiB/s, done.
+From https://github.com/pikachuvaishnavi/devops2_test
